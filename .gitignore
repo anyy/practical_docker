@@ -18,3 +18,4 @@
 .envrc
 
 jenkins_home/
+.DS_Store
